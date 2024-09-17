@@ -1,7 +1,7 @@
 # Data-Analytics-Portfolio
 
 This analysis offers invaluable insights into the performance metrics of various companies, enhanced by the power of interactive visualizations and a year slicer to explore trends over time. Check out the details below!
-- 🔍 Key Highlights:
+- Key Highlights:
   
 Profitability Analysis using a Scatter Plot:
 - Purpose: Analyze the relationship between Return on Equity (ROE), Return on Assets (ROA), and Return on Investment (ROI).
@@ -20,7 +20,7 @@ Market Cap Comparison using Treemap:
 - Insight: Highlights which companies are the largest in terms of market cap, providing insight into the company's size and market value, with the year slicer adding a temporal dimension 
   to the analysis.
 
-🌟 This powerful visualization not only simplifies complex data but also aids in making strategic, data-driven decisions. The inclusion of a year slicer makes it even easier to transform numbers into actionable insights, driving success across different timeframes!
+This powerful visualization not only simplifies complex data but also aids in making strategic, data-driven decisions. The inclusion of a year slicer makes it even easier to transform numbers into actionable insights, driving success across different timeframes!
 
 
 
