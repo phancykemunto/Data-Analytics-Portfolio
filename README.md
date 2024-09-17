@@ -23,6 +23,9 @@ Market Cap Comparison using Treemap:
 This powerful visualization not only simplifies complex data but also aids in making strategic, data-driven decisions. The inclusion of a year slicer makes it even easier to transform numbers into actionable insights, driving success across different timeframes!
 
 
+[(image_alt)https://github.com/phancykemunto/Data-Analytics-Portfolio/blob/main/bi.PNG?raw=true]
+
+
 
 
 
